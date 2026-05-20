@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-
+# text
 <br>
 <!-- LOGO -->
 <img src="https://github.com/user-attachments/assets/aced1e8e-e6be-485a-9015-b822d01ab064" alt="Awesome Opencode" />
